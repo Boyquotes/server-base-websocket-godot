@@ -1,0 +1,45 @@
+# Ignorar arquivos gerados pelo Godot Engine
+*.import/
+*.import.cfg
+*.import.res
+*.bak
+*.imported
+*.imported.json
+*.imported.scene
+*.imported.scn
+*.imported.tscn
+*.imported.resources
+*.imported.materials
+*.imported.meshes
+*.imported.animations
+*.imported.skeletons
+*.imported.lights
+*.imported.particles
+*.imported.curves
+*.imported.physics
+*.imported.navigation
+*.imported.gizmos
+*.imported.audio
+*.imported.video
+*.imported.resources.bin
+*.imported.resources.dir
+*.imported.resources.idx
+*.imported.resources.pag
+*.imported.resources_bk/
+*.imported.resources_bk.bin
+*.imported.resources_bk.dir
+*.imported.resources_bk.idx
+*.imported.resources_bk.pag
+
+# Ignorar arquivos de backup
+*~
+*.bak
+*.backup
+
+# Ignorar pastas de cache ou temporárias
+.cache/
+.cocos2d/
+node_modules/
+
+# Ignorar arquivos de configuração
+.env
